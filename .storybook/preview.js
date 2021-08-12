@@ -19,4 +19,8 @@ export const parameters = {
       date: /Date$/,
     },
   },
-}
+  a11y: {
+    element: '#root',
+    manual: false,
+  },
+};
